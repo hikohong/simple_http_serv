@@ -1,0 +1,9 @@
+Hi there
+This is an intreasting simple http server which inspired from Linux journal's article[1], in which user can specify an ip and port for activating HTTP server
+
+enjoy!
+-hiko
+
+---
+Ref:
+[1] http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python
